@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Mathematics",
+    "instructor": "Dr. Smith"
+  },
+  {
+    "id": 2,
+    "name": "History",
+    "instructor": "Prof. Johnson"
+  }
+]
